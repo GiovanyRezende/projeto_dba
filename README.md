@@ -82,6 +82,6 @@ Como anteriormente dito, as views foram propostas da seguinte forma:
 
 [![logo](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://br.linkedin.com/in/giovanyrezende)
 [![logo](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1426048404/y4lxnqcngh5dvoaz06as.png)](https://github.com/GiovanyRezende)[
-![logo](https://logospng.org/download/gmail/logo-gmail-256.png)](mailto:giocraft1234@gmail.com)
+![logo](https://logospng.org/download/gmail/logo-gmail-256.png)](mailto:giovanyrmedeiros@gmail.com)
 
 </div>
